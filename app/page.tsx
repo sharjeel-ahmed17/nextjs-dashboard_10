@@ -10,9 +10,9 @@ export default function Page() {
       {/* <h1 className='text-xl bg-red-600'>sharjeel ali bari</h1> */}
       {/* <p className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"></p> */}
       {/* <div className={styles.shape}> </div> */}
-      <p
+      {/* <p
       className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
-    >sharjeel ali bari</p>
+    >sharjeel ali bari</p> */}
       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
         <AcmeLogo />
       </div>
